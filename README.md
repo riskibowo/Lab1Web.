@@ -88,3 +88,23 @@ dan ini hasilnya akan membuat paragraf.
 ```
 <img width="683" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/a5d32fda-fe0f-4997-aebe-a07b76e81606">
 <img width="536" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/f7c622ce-e5ff-4a38-bdc7-cff9a4451bd0">
+
+# gambar
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Alternative text</h2>
+
+<p>The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains:</p>
+
+<img src="logo_UPB.png" alt="logo_UPB.png" width="300" height="300">
+
+</body>
+</html>
+```
+
+<img width="895" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/639daffe-26d9-4d3c-abd9-b332f9bd7c7d">
+<img width="679" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/6e274b69-2ef3-44cb-9672-7f149039de31">
+
