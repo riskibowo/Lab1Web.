@@ -30,6 +30,20 @@
 <img width="954" alt="Cuplikan layar 2023-10-02 135929" src="https://github.com/riskibowo/Lab1Web./assets/115862112/02fb418d-c29a-4207-bc21-79d04974d7d4">
 
 # paragraf
+```
+<!DOCTYPE html>
+<html>
+<body>
+<p>Tag HTML untuk Membuat Paragraf:</p>
+<br> paragraf
+<p>
+belajar dasar tag paragraf.
+contoh saja seperti ini .
+dan ini hasilnya akan membuat paragraf.
+</p>
+</body>
+</html>
+```
 ![image](https://github.com/riskibowo/Lab1Web./assets/115862112/2b0195a4-de43-48e6-b7a4-81ceeff9447e)
 
 ![Screenshot (6)](https://github.com/riskibowo/Lab1Web./assets/115862112/7bcbad7a-76ad-41dc-8867-49df6148a379)
