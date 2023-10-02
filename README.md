@@ -72,3 +72,18 @@ dan ini hasilnya akan membuat paragraf.
 
 ![3](https://github.com/riskibowo/Lab1Web./assets/115862112/78cf0e30-4d09-4386-923f-948469c00755)
 
+tag formating
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+</body>
+</html>
+```
+<img width="683" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/a5d32fda-fe0f-4997-aebe-a07b76e81606">
+<img width="536" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/f7c622ce-e5ff-4a38-bdc7-cff9a4451bd0">
