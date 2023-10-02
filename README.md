@@ -48,4 +48,27 @@ dan ini hasilnya akan membuat paragraf.
 
 ![Screenshot (6)](https://github.com/riskibowo/Lab1Web./assets/115862112/7bcbad7a-76ad-41dc-8867-49df6148a379)
 
+# judul
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is heading 1</h1>
+<p>judul 1.</p>
+<hr>
+
+<h2>This is heading 2</h2>
+<p>judul 2.</p>
+<hr>
+
+<h3>This is heading 2</h3>
+<p>judul 3.</p>
+
+</body>
+</html>
+```
+![Screenshot (9)](https://github.com/riskibowo/Lab1Web./assets/115862112/f44d2afc-bc4c-47cd-a147-587d2d379cc5)
+
+![3](https://github.com/riskibowo/Lab1Web./assets/115862112/78cf0e30-4d09-4386-923f-948469c00755)
 
