@@ -72,7 +72,8 @@ dan ini hasilnya akan membuat paragraf.
 
 ![3](https://github.com/riskibowo/Lab1Web./assets/115862112/78cf0e30-4d09-4386-923f-948469c00755)
 
-tag formating
+# tag formating
+
 ```
 <!DOCTYPE html>
 <html>
