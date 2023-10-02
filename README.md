@@ -30,16 +30,8 @@
 <img width="954" alt="Cuplikan layar 2023-10-02 135929" src="https://github.com/riskibowo/Lab1Web./assets/115862112/02fb418d-c29a-4207-bc21-79d04974d7d4">
 
 # paragraf
-```
-<!DOCTYPE html>
-<html>
-<body>
+![image](https://github.com/riskibowo/Lab1Web./assets/115862112/2b0195a4-de43-48e6-b7a4-81ceeff9447e)
 
-<h1 style="text-align:center;">paragraf</h1>
-<p style="text-align:center;">hasilnya.</p>
+![Screenshot (6)](https://github.com/riskibowo/Lab1Web./assets/115862112/7bcbad7a-76ad-41dc-8867-49df6148a379)
 
-</body>
-</html>
-```
-<img width="706" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/4836e088-a0f7-4f21-90cb-0b2362b5d994">
-<img width="960" alt="image" src="https://github.com/riskibowo/Lab1Web./assets/115862112/07f9ef70-51cd-4cba-9b00-3fc138db8405">
+
